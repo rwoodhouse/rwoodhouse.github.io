@@ -4,7 +4,7 @@ layout: splash
 header:
   overlay_image: /assets/images/splash.jpg
   cta_label: "Portfolio"
-  cta_url: "/docs/2010-09-09-post-gallery.md"
+  cta_url: "/portfolio/"
 excerpt: "have a look at some of our properties"
 intro:
   - excerpt: "**Nullam suscipit** et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin."
