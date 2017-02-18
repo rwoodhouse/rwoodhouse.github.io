@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : "Bivowac"
 description              : "Property."
 url                      : "https://rwoodhouse.github.io"
-baseurl                  : "/rwoodhouse.github.io"
+baseurl                  :
 repository               : "rwoodhouse/rwoodhouse.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
